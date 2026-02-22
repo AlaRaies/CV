@@ -27,18 +27,27 @@ body {
     gap: 10px;
     z-index: 1000; /* keep above other content */
 }
+.language-switch-fixed img {
+        width: 32px;
+        height: 24px;
+        cursor: pointer;
+        transition: transform 0.2s;
+}
 
-    .language-switch-fixed img {
+
+.language-switch-fixed img:hover {
+  transform: scale(1.1);
+ }
+    .language-switch-fixed svg {
         width: 32px;
         height: 24px;
         cursor: pointer;
         transition: transform 0.2s;
     }
 
-        .language-switch-fixed img:hover {
+.language-switch-fixed svg:hover {
             transform: scale(1.1);
         }
-
 
 /* Header */
 .cv-header {
