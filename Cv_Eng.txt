@@ -1,0 +1,134 @@
+
+# Curriculum Vitae – Ala Raies  
+**Senior .NET Developer & Software Architect – Finance & Banking Systems**
+
+---
+
+## 📝 Summary  
+Senior .NET Developer and Software Architect specialized in critical financial and banking systems. Proven experience in designing scalable and high‑performance solutions covering trading, portfolio management, and Core Banking. Expertise in API optimization, UI development, CI/CD, and containerization. Passionate about modernizing technology stacks and integrating new practices (observability, AI, microservices).  
+
+---
+
+## 💼 Professional Experience  
+
+### Zembra – .NET Developer  
+**01/2025 – Present**  
+**Context**  
+Development of a high‑stakes portfolio management solution enabling bankers to execute complex financial transactions (buy/sell equities, portfolio rebalancing, liquidation, simulations, cash handling) while respecting both client and banker constraints. High‑volume application requiring speed, reliability, and zero errors.  
+
+**Responsibilities**  
+- Development of new features (transactions, simulations, cash handling, constraints).  
+- Design and optimization of high‑performance APIs.  
+- Development of user interfaces tailored to business needs.  
+- Optimization of processes for high‑volume traffic.  
+- Continuous delivery with Azure DevOps (CI/CD).  
+- Deployment of containerized applications on OpenShift.  
+- Active participation in Agile/Scrum ceremonies.  
+
+**Achievements**  
+- Built a **portfolio rebalancing module** based on model portfolios.  
+- Developed a **cash handling module** for treasury management.  
+- Implemented **financial simulation features** for investment scenarios.  
+- Designed a **constraint configuration and calculation module** ensuring compliance with client and banker rules.  
+- Delivered a **real‑time financial transaction module using Kafka** for high‑volume execution.  
+- Enhanced **user experience** with fluid, business‑oriented screens.  
+- Built **AI agents with Microsoft Agent Framework**, adding agentic capabilities such as natural‑language portfolio filters.  
+
+**Tech Stack**  
+.NET Framework, C#, SQL Server, Azure DevOps, OpenShift, Kafka, Agile/Scrum.  
+
+---
+
+### Technical Center of Excellence – .NET Developer  
+**07/2023 – 12/2024**  
+**Context**  
+Transitional mission to modernize application development practices. Conducted technical audits on legacy systems and prepared the full technology stack for future projects.  
+
+**Responsibilities**  
+- Technical audits of legacy systems.  
+- Definition of a complete stack (frameworks, libraries, ORM, audit log, logging, front‑end, observability, testing).  
+- Development of internal SDKs.  
+- Containerization and deployment on OpenShift.  
+- Implementation of transversal solutions for performance and traceability.  
+- Coaching teams to adopt modern practices.  
+
+**Achievements**  
+- Authored **developer guidelines** for new frameworks and technologies.  
+- Built an **Audit SDK**.  
+- Wrote **Entity Framework Core guidelines**.  
+- Set up **Grafana and observability stack**.  
+- Prepared **instrumentation guidelines for C# applications**.  
+- Collaborated with the Zembra team (BA + dev) to design their next highly scalable microservices solution.  
+
+**Tech Stack**  
+.NET Framework, C#, EF Core, SQL Server, OpenShift, Grafana, Azure DevOps, Agile/Scrum.  
+
+---
+
+### Lutèce Portfolio Management – .NET Developer  
+**01/2022 – 06/2023**  
+**Context**  
+Worked on the bank’s legacy portfolio management system, a critical application handling trading, reporting, and client constraints. High‑volume traffic with no margin for error.  
+
+**Responsibilities**  
+- Development of new features (APIs + GUI).  
+- Maintenance of existing processes and incident support.  
+- Optimization of APIs to handle increasing traffic.  
+- Continuous delivery with Azure DevOps (CI/CD).  
+- Agile/Scrum collaboration.  
+
+**Achievements**  
+- Reworked the **MiFID module** to ensure regulatory compliance.  
+- Rebuilt the **Corporate Actions (Opérations sur titres) module**, enabling bankers to record client responses.  
+- Developed the **ESG module**, integrating environmental and social criteria.  
+- Optimized critical APIs used for reporting and external applications.  
+- Migrated backend from **.NET Framework 4.6 to 4.8.1**.  
+
+**Tech Stack**  
+.NET Framework, DurandalJS, SQL Server, Azure DevOps, Agile/Scrum.  
+
+---
+
+### Lutèce Core Banking – Full Stack Developer  
+**02/2021 – 12/2021**  
+**Context**  
+Development and evolution of Lutèce’s Core Banking system, covering referential management (accounts, third parties) and critical banking operations.  
+
+**Responsibilities**  
+- Designed and developed reusable UI components and web pages.  
+- Built and optimized APIs consumed by the UI.  
+- Provided technical and functional support in production.  
+- Continuous delivery with Jenkins (CI/CD).  
+- Agile/Scrum collaboration.  
+
+**Achievements**  
+- Developed robust and high‑performance APIs.  
+- Created reusable UI components.  
+- Optimized execution time of Core Banking operations.  
+
+**Tech Stack**  
+.NET Framework, DurandalJS, SQL Server, Selenium, Jenkins, Agile/Scrum.  
+
+---
+
+### GUIT – Full Stack Developer  
+**10/2018 – 09/2019**  
+**Context**  
+Development of an internal automated testing engine built on top of Selenium, aimed at significantly reducing UI test development time. Agile project in close collaboration with business and technical teams.  
+
+**Responsibilities**  
+- Requirements analysis and technical design of the testing platform.  
+- Full‑stack development with .NET Framework and DurandalJS.  
+- Implementation of custom Selenium components for complex scenarios.  
+- Design of a robust and extensible execution engine.  
+- CI/CD pipelines with Jenkins.  
+- Collaboration with business teams to adapt tests to real use cases.  
+
+**Achievements**  
+- Built an internal platform reducing UI test development time and accelerating delivery validation.  
+- Improved test coverage and reduced production anomalies.  
+- Designed an extensible architecture enabling new scenarios and components.  
+
+**Tech Stack**  
+.NET Framework, DurandalJS, Selenium, SQL Server, Jenkins, Agile/Scrum.  
+
