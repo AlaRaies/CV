@@ -17,6 +17,7 @@ body {
     margin: 0 auto;
     background-color: #fff;
 }
+
 .language-switch-fixed {
     position: fixed;
     top: 50%; /* vertical center */
@@ -27,27 +28,28 @@ body {
     gap: 10px;
     z-index: 1000; /* keep above other content */
 }
+
 .language-switch-fixed img {
-        width: 32px;
-        height: 24px;
-        cursor: pointer;
-        transition: transform 0.2s;
+    width: 32px;
+    height: 24px;
+    cursor: pointer;
+    transition: transform 0.2s;
 }
 
-
 .language-switch-fixed img:hover {
-  transform: scale(1.1);
- }
-    .language-switch-fixed svg {
-        width: 32px;
-        height: 24px;
-        cursor: pointer;
-        transition: transform 0.2s;
-    }
+    transform: scale(1.1);
+}
+
+.language-switch-fixed svg {
+    width: 32px;
+    height: 24px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
 
 .language-switch-fixed svg:hover {
-            transform: scale(1.1);
-        }
+    transform: scale(1.1);
+}
 
 /* Header */
 .cv-header {
@@ -67,13 +69,13 @@ body {
     text-align: right;
 }
 
-    .header-photo img {
-        width: 120px;
-        height: 120px;
-        border-radius: 50%;
-        object-fit: cover;
-        border: 2px solid #002640;
-    }
+.header-photo img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #002640;
+}
 
 .header-text h1 {
     font-size: 2.5em;
@@ -93,29 +95,29 @@ body {
     color: #333;
 }
 
-    .header-text .contact a {
-        color: #002640;
-        text-decoration: none;
-    }
+.header-text .contact a {
+    color: #002640;
+    text-decoration: none;
+}
 
-        .header-text .contact a:hover {
-            text-decoration: underline;
-        }
+.header-text .contact a:hover {
+    text-decoration: underline;
+}
 
 /* Sections */
 section {
     margin-bottom: 2em;
 }
 
-    section h2 {
-        font-size: 1.3em;
-        font-weight: bold;
-        text-transform: uppercase;
-        color: #002640;
-        padding-bottom: 0.5em;
-        border-bottom: 1px solid #002640;
-        margin-bottom: 1em;
-    }
+section h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #002640;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #002640;
+    margin-bottom: 1em;
+}
 
 /* Summary */
 .summary-content {
@@ -124,92 +126,107 @@ section {
     color: #333;
 }
 
-    .summary-content strong {
-        color: #002640;
-    }
+.summary-content strong {
+    color: #002640;
+}
 
 /* Skills Table */
 .skills-table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate; /* allow spacing between rows */
+    border-spacing: 0 0.6em;   /* vertical spacing between rows */
+    margin-top: 1rem;
 }
 
-    .skills-table td {
-        padding: 0.5em 0;
-        vertical-align: top;
-    }
+.skills-table td {
+    padding: 0.4em 0;
+    vertical-align: top;
+    font-size: 0.95em;
+    line-height: 1.5;
+}
 
-        .skills-table td:first-child {
-            width: 20%;
-            font-weight: bold;
-            color: #333;
-            padding-right: 2em;
-        }
+.skills-table td:first-child {
+    width: 22%;
+    font-weight: 600;
+    color: #002640;            /* accent color for category names */
+    padding-right: 1.5em;
+    text-transform: uppercase; /* makes categories stand out */
+    letter-spacing: 0.5px;
+}
 
-        .skills-table td:last-child {
-            width: 80%;
-            color: #333;
-        }
+.skills-table td:last-child {
+    width: 78%;
+    color: #333;
+}
+
+/* Optional subtle divider line */
+.skills-table tr td:last-child {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 0.6em;
+}
+.skills-table tr:last-child td:last-child {
+    border-bottom: none; /* remove divider after last row */
+}
 
 /* Experience */
 .experience-item {
     margin-bottom: 1.5em;
 }
 
-    .experience-item h3 {
-        font-size: 1.05em;
-        font-weight: bold;
-        color: #333;
-        margin-bottom: 0.5em;
-        display: flex;
-        justify-content: space-between;
-        align-items: baseline;
-    }
+.experience-item h3 {
+    font-size: 1.05em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
 
-    .experience-item .company {
-        font-weight: bold;
-    }
+.experience-item .company {
+    font-weight: bold;
+}
 
-    .experience-item .date {
-        font-style: italic;
-        color: #646464;
-        font-size: 0.95em;
-    }
+.experience-item .date {
+    font-style: italic;
+    color: #646464;
+    font-size: 0.95em;
+}
 
-    .experience-item .description {
-        color: #646464;
-        font-size: 0.95em;
-        margin-bottom: 0.5em;
-    }
+.experience-item .description {
+    color: #646464;
+    font-size: 0.95em;
+    margin-bottom: 0.5em;
+}
 
-    .experience-item ul {
-        list-style: none;
-        padding-left: 1.5em;
-        margin-bottom: 0.8em;
-    }
+.experience-item ul {
+    list-style: none;
+    padding-left: 1.5em;
+    margin-bottom: 0.8em;
+}
 
-    .experience-item li {
-        margin-bottom: 0.3em;
-        line-height: 1.5;
-        color: #333;
-    }
+.experience-item li {
+    margin-bottom: 0.3em;
+    line-height: 1.5;
+    color: #333;
+}
 
-        .experience-item li::before {
-            content: "•";
-            color: #002640;
-            font-weight: bold;
-            display: inline-block;
-            width: 1em;
-            margin-left: -1em;
-        }
+.experience-item li::before {
+    content: "•";
+    color: #002640;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
 
-    .experience-item .tech-stack {
-        font-size: 0.9em;
-        color: #646464;
-        font-style: italic;
-        padding: 0.5em 0;
-        margin-top: 0.5em;
-    }
+.experience-item .tech-stack {
+    font-size: 0.9em;
+    color: #646464;
+    font-style: italic;
+    padding: 0.5em 0;
+    margin-top: 0.5em;
+}
 
 /* Education */
 .education-item {
@@ -219,23 +236,23 @@ section {
     margin-bottom: 1em;
 }
 
-    .education-item h3 {
-        font-weight: bold;
-        color: #333;
-    }
+.education-item h3 {
+    font-weight: bold;
+    color: #333;
+}
 
-    .education-item .date {
-        font-style: italic;
-        color: #646464;
-        font-size: 0.95em;
-        margin-left: 1em;
-    }
+.education-item .date {
+    font-style: italic;
+    color: #646464;
+    font-size: 0.95em;
+    margin-left: 1em;
+}
 
-    .education-item .description {
-        font-size: 0.95em;
-        color: #646464;
-        margin-top: 0.3em;
-    }
+.education-item .description {
+    font-size: 0.95em;
+    color: #646464;
+    margin-top: 0.3em;
+}
 
 /* Print styles */
 @media print {
@@ -253,6 +270,16 @@ section {
 
     .experience-item {
         page-break-inside: avoid;
+    }
+
+    /* Simplify skills table for print */
+    .skills-table td:first-child {
+        color: #000;
+        text-transform: none;
+        letter-spacing: normal;
+    }
+    .skills-table tr td:last-child {
+        border-bottom: none;
     }
 }
 
@@ -293,14 +320,12 @@ section {
     .skills-table td:last-child {
         width: 70%;
     }
-
- 
 }
 
 /* Experience sub-sections */
 .experience-item .context,
 .experience-item .missions,
-.experience-item .realizations{
+.experience-item .realizations {
     margin-top: 1rem;       /* space above each section */
     margin-bottom: 0.8rem;  /* space below each section */
     padding-left: 0.5rem;   /* slight indent for readability */
