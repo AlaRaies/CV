@@ -296,3 +296,29 @@ section {
 
  
 }
+
+/* Experience sub-sections */
+.experience-item .context,
+.experience-item .missions,
+.experience-item .realizations{
+    margin-top: 1rem;       /* space above each section */
+    margin-bottom: 0.8rem;  /* space below each section */
+    padding-left: 0.5rem;   /* slight indent for readability */
+}
+
+.experience-item h4 {
+    margin-bottom: 0.4rem;  /* space below section headers */
+    font-weight: 600;
+    color: #033557;         /* consistent with section headers */
+    font-size: 1em;
+}
+
+.experience-item ul {
+    margin: 0.5rem 0 0.5rem 1.2rem; /* spacing around lists */
+    padding: 0;
+}
+
+.experience-item li {
+    margin-bottom: 0.4rem;
+    line-height: 1.5;
+}
