@@ -7,7 +7,32 @@ Passionné par l’innovation, j’intègre également des outils d’intelligen
 
 *skills :
 
+Langages de programmation  
+C#, SQL, TypeScript, JavaScript, T‑SQL, HTML
 
+Frameworks & Web  
+.NET, .NET Core, ASP.NET, Angular, Entity Framework / Core, Nhibernate, DurandalJs, Apache Kafka, jQuery, Windows Forms, UI Design
+
+Bases de données (SGBD)  
+Microsoft SQL Server, PostgreSQL
+
+DevOps / SRE  
+Docker, CI/CD, Kubernetes, Azure DevOps, Git, Argo CD, Jenkins, Grafana, Terraform
+
+Cloud Computing  
+Red Hat OpenShift, Azure
+
+Monitoring & Observabilité  
+Dynatrace, Grafana
+
+Tests & Recette  
+Selenium
+
+Outils Build / CI / IDE  
+Jenkins, Azure DevOps, Git, Visual Studio, VS Code
+
+Méthodologies & Architecture
+Agile/Scrum, TDD, DDD, Clean Architecture, Microservices
 
 
 *experience :
@@ -96,7 +121,7 @@ Préparation de standards pour l’instrumentation des applications C#, garantis
 Collaboration avec l’équipe Zembra pour définir leur prochaine solution, en les accompagnant sur le découpage métier et la conception d’une application microservices hautement scalable.
 
 Environnement technique  
-PostgreSQL, C#, Azure, TypeScript, Red Hat OpenShift, Argo CD, Microsoft SQL Server, HTML, Git, Microservices, .NET Core, Azure DevOps, AngularJS, Apache Kafka, Grafana, Entity Framework Core
+PostgreSQL, C#, Azure, TypeScript, Red Hat OpenShift, Argo CD, Microsoft SQL Server, HTML, Git, Microservices, .NET Core, Azure DevOps, Angular, Apache Kafka, Grafana, Entity Framework Core
 
 Lutèce Portfolio Management — Développeur .NET
 ODDO‑BHF – Tunis, Tunisie | Janvier 2022 – Juin 2023
@@ -131,8 +156,7 @@ Optimisation d’APIs critiques utilisées pour le reporting et par des applicat
 Migration du backend du système de .NET Framework 4.6 vers 4.8.1, renforçant la stabilité et la compatibilité de l’application.
 
 Environnement technique  
-T‑SQL, Hibernate, Azure DevOps, SQL, Microsoft SQL Server, .NET, C#, Windows Forms, Dynatrace
-
+T‑SQL, Nhibernate, Azure DevOps, Microsoft SQL Server, .NET Framework, C#, Windows Forms, Dynatrace
 
 Lutèce Core Banking — Développeur Full Stack
 ODDO‑BHF – Tunis, Tunisie | Février 2021 – Décembre 2021
@@ -161,7 +185,7 @@ Développement de composants UI réutilisables, accélérant la mise en place de
 Optimisation du temps d’exécution de certaines opérations Core Banking, renforçant l’efficacité globale du système.
 
 Environnement technique  
-HTML, Scrum, C#, Jenkins, Durandal js, .NET, Entity Framework, SQL, jQuery, Hibernate
+HTML, Javascript, C#, .NET Framework, Jenkins, Durandal Js, SQL, jQuery, Nhibernate
 
 
 GUIT — Développeur Full Stack
@@ -193,4 +217,4 @@ Amélioration de la couverture de tests et réduction des anomalies détectées 
 Mise en place d’une architecture évolutive facilitant l’ajout de nouveaux scénarios et composants.
 
 Environnement technique  
-JavaScript, Hibernate, Scrum, Selenium, Durandal Js, SQL Developer, C#, HTML, Jenkins, jQuery, Interface Utilisateur
+C#, .NET Framework, JavaScript, Nhibernate, Scrum, Selenium, Durandal Js, SQL, HTML, Jenkins, jQuery, Interface Utilisateur
