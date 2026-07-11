@@ -1,4 +1,4 @@
-Résumé / Profile
+Summary
 Senior .NET Developer with more than 6 years of experience in the financial sector, working within Agile and international environments. Specialized in the design and development of portfolio management and high‑volume trading solutions, highly scalable and performant.
 
 Confirmed expertise in microservices architectures, optimized APIs, CI/CD and SQL databases, with advanced proficiency in C#, .NET Core and Angular. Experienced in requirements analysis, technical design, Fullstack development, deployment automation, Cloud integration and containerized solutions.
