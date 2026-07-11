@@ -1,0 +1,216 @@
+Summary
+Senior .NET Developer with more than 6 years of experience in the financial sector, working within Agile and international environments. Specialized in the design and development of portfolio management and high‑volume trading solutions, highly scalable and performant.
+
+Confirmed expertise in microservices architectures, optimized APIs, CI/CD and SQL databases, with advanced proficiency in C#, .NET Core and Angular. Experienced in requirements analysis, technical design, Fullstack development, deployment automation, Cloud integration and containerized solutions.
+
+Passionate about innovation, I also integrate artificial intelligence tools into business processes to address concrete use cases and enhance the value of financial systems.
+
+Skills
+Programming Languages  
+C#, SQL, TypeScript, JavaScript, T‑SQL, HTML
+
+Frameworks & Web  
+.NET, .NET Core, ASP.NET, Angular, Entity Framework / Core, Nhibernate, DurandalJs, Apache Kafka, jQuery, Windows Forms, UI Design
+
+Databases (DBMS)  
+Microsoft SQL Server, PostgreSQL
+
+DevOps / SRE  
+Docker, CI/CD, Kubernetes, Azure DevOps, Git, Argo CD, Jenkins, Grafana, Terraform
+
+Cloud Computing  
+Red Hat OpenShift, Azure
+
+Monitoring & Observability  
+Dynatrace, Grafana
+
+Testing & Validation  
+Selenium
+
+Build / CI / IDE Tools  
+Jenkins, Azure DevOps, Git, Visual Studio, VS Code
+
+Methodologies & Architecture  
+Agile/Scrum, TDD, DDD, Clean Architecture, Microservices
+
+
+*experience :
+
+Zembra — Full Stack Developer (.NET/Angular)
+ODDO‑BHF – Tunis, Tunisia | January 2025 – Present
+
+Context  
+Design and development of a strategic portfolio management solution, covering critical high‑volume financial processes. The application enables bankers to execute complex operations — buying/selling securities, rebalancing via model portfolios, liquidation, simulations, and cash management — with strict requirements for speed, reliability, and compliance with client and manager constraints.
+
+Missions and Responsibilities
+
+Definition of technical designs and development of new features (transactions, simulations, cash handling, constraints).
+
+Design and governance of high‑performance APIs and complex algorithmic solutions, consumed by user interfaces and external systems.
+
+Development of ergonomic user interfaces consistent with business processes.
+
+Supervision of maintenance and coordination of technical support in case of production incidents.
+
+Validation of Pull Requests and code reviews on critical components.
+
+Proactive optimization of processes and APIs to support high traffic and ensure speed and reliability.
+
+Implementation and monitoring of continuous delivery via Azure DevOps (CI/CD), establishing best practices for software quality.
+
+Architecture and deployment of containerized applications on OpenShift to ensure scalability and portability.
+
+Active participation in Agile/Scrum ceremonies and coordination between business and technical teams.
+
+Achievements
+
+Implementation of the portfolio rebalancing module based on model portfolios, adopted as an internal reference to quickly align large portfolios with a target strategy.
+
+Development and integration of the cash management module, improving visibility and responsiveness of financial flows.
+
+Led the design and integration of financial simulation features, enabling teams to evaluate different investment scenarios and anticipate impacts.
+
+Development and deployment of the constraint configuration and calculation module, ensuring simultaneous compliance with client and banker constraints during transactions.
+
+Implementation and supervision of a real‑time financial transactions module based on Kafka, reducing latency and increasing tolerance to high volumes.
+
+Improved user experience through fluid screens adapted to complex business processes, with definition of UI guidelines to ensure consistency and ergonomics.
+
+Creation and integration of AI agents with Microsoft Agent Framework, paving the way for new agentic capabilities, including generating portfolio management filters from natural text.
+
+Technical Environment  
+PostgreSQL, C#, Azure, TypeScript, Red Hat OpenShift, Argo CD, Microsoft SQL Server, HTML, Git, Microservices, .NET Core, Azure DevOps, AngularJS, Apache Kafka, Grafana, Entity Framework Core
+
+TCE — Full Stack Developer (.NET/Angular)
+ODDO‑BHF – Tunis, Tunisia | July 2023 – December 2024
+
+Context  
+Cross‑functional mission within the Technical Center of Excellence, with a transitional role to modernize the bank’s application development. The objective was to define and prepare a new technology stack, audit legacy systems, and lay the technical foundations for upcoming projects.
+
+Missions and Responsibilities
+
+Led technical audits on legacy systems to identify modernization areas and prioritize evolutions.
+
+Defined and implemented the complete stack for new projects (frameworks, libraries, ORM, audit log, logging, front‑end, observability, testing framework), establishing technical standards.
+
+Designed and developed internal SDKs to standardize practices and promote reusability.
+
+Architected and containerized applications, preparing deployments on OpenShift to ensure scalability and portability.
+
+Implemented cross‑cutting solutions addressing teams’ technical needs (performance, traceability, quality), with shared guidelines.
+
+Supported and mentored development teams in adopting new practices (training, code reviews, technical support).
+
+Collaborated with the Zembra team (architects, DBAs, DevOps) to define and provision infrastructure via OpenShift cluster, PostgreSQL/Kafka configuration, and workload deployment through Helm Charts.
+
+Achievements
+
+Created developer guidelines for using new frameworks and technologies, adopted as internal reference.
+
+Developed a dedicated audit SDK, facilitating traceability and strengthening application compliance.
+
+Authored reference materials for using Entity Framework Core, improving consistency and quality of implementations.
+
+Implemented Grafana and an observability stack, providing increased visibility into application performance and health.
+
+Prepared standards for C# application instrumentation, ensuring better observability and diagnostics.
+
+Collaborated with the Zembra team to define their next solution, supporting them in business slicing and designing a highly scalable microservices application.
+
+Technical Environment  
+PostgreSQL, C#, Azure, TypeScript, Red Hat OpenShift, Argo CD, Microsoft SQL Server, HTML, Git, Microservices, .NET Core, Azure DevOps, Angular, Apache Kafka, Grafana, Entity Framework Core
+
+Lutèce Portfolio Management — .NET Developer
+ODDO‑BHF – Tunis, Tunisia | January 2022 – June 2023
+
+Context  
+Participation in the development and evolution of the bank’s legacy portfolio management system, a critical application covering financial transactions, reporting, and account management with client constraints. A high‑stakes solution, exposed to significant financial risks and handling heavy traffic, requiring maximum reliability and continuous performance optimization.
+
+Missions and Responsibilities
+
+Development of new features involving the creation of optimized APIs and new user interfaces.
+
+Design and implementation of UI pages and components dedicated to reference data management and client constraints.
+
+Maintenance of existing processes and technical support in case of production incidents.
+
+Optimization of processes and APIs to support increasing volumes of transactions and reporting.
+
+Active participation in Agile/Scrum ceremonies and coordination with business teams.
+
+Ensured continuous delivery and deployment quality via Azure DevOps (CI/CD).
+
+Achievements
+
+Redesign of the MiFID module, ensuring regulatory compliance of client transactions.
+
+Redesign of the Securities Operations module, enabling bankers to record client responses to Corporate Actions.
+
+Development of the ESG module, integrating new environmental and social criteria into portfolio management.
+
+Optimization of critical APIs used for reporting and by external applications, reducing response times and increasing reliability.
+
+Migration of the system backend from .NET Framework 4.6 to 4.8.1, strengthening application stability and compatibility.
+
+Technical Environment  
+T‑SQL, Nhibernate, Azure DevOps, Microsoft SQL Server, .NET Framework, C#, Windows Forms, Dynatrace
+
+Lutèce Core Banking — Full Stack Developer
+ODDO‑BHF – Tunis, Tunisia | February 2021 – December 2021
+
+Context  
+Participation in the development and evolution of Lutèce’s Core Banking system, with a focus on reference data management (accounts, third parties) and optimization of critical operations. Project carried out in an Agile/Scrum environment, in close collaboration with business and technical teams.
+
+Missions and Responsibilities
+
+Design and development of reusable UI components and web pages dedicated to reference data management (accounts, third parties).
+
+Development and optimization of APIs consumed by user interfaces.
+
+Technical and functional support for users and business teams in production.
+
+Implementation and monitoring of continuous delivery via Jenkins (CI/CD).
+
+Active participation in Agile/Scrum ceremonies and coordination with development and business teams.
+
+Achievements
+
+Designed robust and high‑performance APIs, improving the reliability of banking operations.
+
+Developed reusable UI components, accelerating the implementation of new features.
+
+Optimized execution time of certain Core Banking operations, strengthening overall system efficiency.
+
+Technical Environment  
+HTML, JavaScript, C#, .NET Framework, Jenkins, Durandal Js, SQL, jQuery, Nhibernate
+
+GUIT — Full Stack Developer
+ODDO‑BHF – Tunis, Tunisia | February 2020 – February 2021
+
+Context  
+Development of an internal automated testing engine, built on top of Selenium, with the main objective of significantly reducing UI test development time. Project carried out in an Agile environment, in close collaboration with business and technical teams.
+
+Missions and Responsibilities
+
+Requirements analysis and technical design of the testing platform.
+
+Fullstack development of the tool with .NET Framework and DurandalJS.
+
+Implementation of custom Selenium components to automate complex scenarios.
+
+Design of a robust and extensible execution engine.
+
+Setup of CI/CD pipelines with Jenkins to secure deployments.
+
+Collaboration with business teams to adapt tests to real use cases.
+
+Achievements
+
+Creation of an internal platform reducing UI test development time and accelerating delivery validation.
+
+Improved test coverage and reduced anomalies detected in production.
+
+Implementation of a scalable architecture facilitating the addition of new scenarios and components.
+
+Technical Environment  
+C#, .NET Framework, JavaScript, Nhibernate, Scrum, Selenium, Durandal Js, SQL, HTML, Jenkins, jQuery, User Interface
